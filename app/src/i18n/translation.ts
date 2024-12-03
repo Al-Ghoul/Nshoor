@@ -1,6 +1,7 @@
 import { siteConfig } from '../config'
 import type I18nKey from './i18nKey'
 import { en } from './languages/en'
+import { ar } from './languages/ar'
 import { es } from './languages/es'
 import { ja } from './languages/ja'
 import { ko } from './languages/ko'
@@ -14,6 +15,7 @@ export type Translation = {
 const defaultTranslation = en
 
 const map: { [key: string]: Translation } = {
+  ar: ar,
   es: es,
   en: en,
   en_us: en,
