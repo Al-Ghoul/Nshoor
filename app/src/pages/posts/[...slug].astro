@@ -68,21 +68,21 @@ const jsonLd = {
             </div>
 
             <!-- title -->
-            <div class="relative onload-animation">
+            <div class="relative onload-animation" dir="rtl">
                 <div
                     data-pagefind-body data-pagefind-weight="10" data-pagefind-meta="title"
                     class="transition w-full block font-bold mb-3
                     text-3xl md:text-[2.25rem]/[2.75rem]
                     text-black/90 dark:text-white/90
                     md:before:w-1 before:h-5 before:rounded-md before:bg-[var(--primary)]
-                    before:absolute before:top-[0.75rem] before:left-[-1.125rem]
+                    before:absolute before:top-[0.75rem] before:right-[-1.125rem]
                 ">
                     {entry.data.title}
                 </div>
             </div>
 
             <!-- metadata -->
-            <div class="onload-animation">
+            <div class="onload-animation" dir="rtl">
                 <PostMetadata
                         class="mb-5"
                         published={entry.data.published}
@@ -100,7 +100,9 @@ const jsonLd = {
 
 
             <Markdown class="mb-6 markdown-content onload-animation">
-                <Content />
+                <div dir="rtl">
+                    <Content />
+                </div>
             </Markdown>
 
             {licenseConfig.enable && <License title={entry.data.title} slug={entry.slug} pubDate={entry.data.published} class="mb-6 rounded-xl license-container onload-animation"></License>}
