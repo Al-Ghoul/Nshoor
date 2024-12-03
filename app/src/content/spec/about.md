@@ -1,9 +1,12 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# عنا
 
-::github{repo="saicaca/fuwari"}
+- Al-Ghoul
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+أنا رجُل [عِصاميّ](https://www.arabdict.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B9%D8%B5%D8%A7%D9%85%D9%8A)، مبرمج متحمس للغاية ومطور ذو شغف لبناء برمجيات مبتكرة وصديقة للمُستخدم؛ تعلمت البرمجة علي مدي الخمس سنوات الماضية، ولدي فهم قوي لمجموعة متنوعة للغات البرمجة.
+
+أنا أيضًا شخص متحمس للغاية وموجه نحو الإنتاجية، و دائمًا أحرص على تعلم أشياء جديدة ومواجهة تحديات جديدة،
+و لاعب فريق وأستمتع بالتعاون مع الآخرين لتحقيق الأهداف المشتركة.
+
+أنا متحمس بشأن فرصة استخدام مهاراتي وخبرتي لإحداث تأثير إيجابي في العالم. أعتقد أنه يمكن استخدام البرامج لحل بعض أكثر مشاكل العالم إلحاحاً، وأنا حريص على أن أكون جزءاً من هذا الجهد.
+
+إذا كنت تبحث عن مبرمج ماهر ومتحمس لبناء برامج مبتكرة، فسيشرفني أن أناقش مؤهلاتي معك.
