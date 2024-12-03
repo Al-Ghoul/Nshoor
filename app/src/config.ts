@@ -43,29 +43,44 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: "https://avatars.githubusercontent.com/u/29547307", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: "AlGhoul",
+  bio: "مادام في القلبِ نية و في العقل رأيٌ و في النفس عزمٌ و في الوقتِ متسع، فكل شئٍ يمكن تداركهْ.",
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      name: "Twitter",
+      icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
+      url: "https://twitter.com/abdo_alghoul",
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: "Instagram",
+      icon: "fa6-brands:instagram",
+      url: "https://www.instagram.com/abdo.alghoul/",
     },
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      name: "TikTok",
+      icon: "fa6-brands:tiktok",
+      url: "https://www.tiktok.com/@abdo.alghoul",
+    },
+    {
+      name: "Youtube",
+      icon: "fa6-brands:youtube",
+      url: "https://www.youtube.com/@Abdo.AlGhoul",
+    },
+    {
+      name: "Paypal",
+      icon: "fa6-brands:paypal",
+      url: "https://paypal.me/AlGhouul?country.x=EG&locale.x=en_US",
+    },
+    {
+      name: "GitHub",
+      icon: "fa6-brands:github",
+      url: "https://github.com/Al-Ghoul",
     },
   ],
-}
+};
 
 export const licenseConfig: LicenseConfig = {
   enable: true,
